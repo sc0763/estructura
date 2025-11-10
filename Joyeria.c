@@ -9,7 +9,7 @@
 
 #define Pandora 2500
 #define Werxüs 4000
-#define Monte Carlo 6000
+#define MonteCarlo 6000
 #define Loalba 8000
 
 #define Cartier 5000
@@ -38,7 +38,19 @@ int main(){
     printf("3. Jacob --------------- $150,000\n");
     printf("4. MontBlack --------------- $100,000\n");
     printf("5. Michael Kors --------------- $50,000\n\n");
-    printf("6. Cartier --------------- $750,000\n\n");
+    printf("6. Cartier --------------- $750,000\n");
+
+    printf("========= Collares =========")
+    printf("1. Pandora --------------- $2,500\n");
+    printf("2. Werxüs --------------- $4,000\n");
+    printf("3. MonteCarlo --------------- $6,000\n");
+    printf("4. Loalba --------------- $8,000\n");
+
+    printf("========= Anillos =========")
+    printf("1. Cartier --------------- $5,000\n");
+    printf("2. Tiffany --------------- $4,000\n");
+    printf("3. Piaget --------------- $2,000\n");
+    printf("4. Hermes --------------- $7,000\n");
     
     printf("Ingrese su nombre: ");
     scanf("%s",nomb);
