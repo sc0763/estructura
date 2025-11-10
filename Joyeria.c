@@ -32,21 +32,24 @@ int main(){
     printf("------ /| \n\n");
     
     printf("*-*-*-*-*-*-*-*-*-* Lista de Productos *-*-*-*-*-*-*-*-*-*\n");
-    printf("========= Relojes =========")
+    printf("\n");
+    printf("========= Relojes =========\n");
     printf("1. Rolex --------------- $500,000\n");
     printf("2. Patek Philippe --------------- $20,000\n");
     printf("3. Jacob --------------- $150,000\n");
     printf("4. MontBlack --------------- $100,000\n");
-    printf("5. Michael Kors --------------- $50,000\n\n");
+    printf("5. Michael Kors --------------- $50,000\n");
     printf("6. Cartier --------------- $750,000\n");
 
-    printf("========= Collares =========")
+    printf("\n");
+    printf("========= Collares =========\n");
     printf("1. Pandora --------------- $2,500\n");
     printf("2. Werxüs --------------- $4,000\n");
     printf("3. MonteCarlo --------------- $6,000\n");
     printf("4. Loalba --------------- $8,000\n");
 
-    printf("========= Anillos =========")
+    printf("\n");
+    printf("========= Anillos =========\n");
     printf("1. Cartier --------------- $5,000\n");
     printf("2. Tiffany --------------- $4,000\n");
     printf("3. Piaget --------------- $2,000\n");
@@ -61,7 +64,6 @@ int main(){
     printf("\n*-*-*-*-*-*-*-*-*-* TICKET *-*-*-*-*-*-*-*-*-*\n");
     printf("Cliente: %s\n",nomb);
     printf("Productos:\n");
-    
 
     if(numProductos>= 1){
         printf("\nProducto 1:\n");
