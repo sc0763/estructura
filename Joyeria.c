@@ -8,7 +8,14 @@
 #define Cartier 750000
 
 #define Pandora 2500
-#define 
+#define Werxüs 4000
+#define Monte Carlo 6000
+#define Loalba 8000
+
+#define Cartier 5000
+#define Tiffany 4000
+#define Piaget 2000
+#define Hermes 7000
 
 int main(){
     int numProductos,cant,produc;
